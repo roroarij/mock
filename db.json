@@ -1,0 +1,1186 @@
+{"properties":{
+
+{
+	"OBJECTID_1": 2,
+	"OBJECTID": 2,
+	"PIN14": "02353060210000",
+	"PARCEL_ADD": "2328 S WESTWOOD LN",
+	"CITY": "PALATINE",
+	"TAXPAYER_Z": "60067",
+	"TYPE_RES": "0",
+	"USE_": "0",
+	"NUM_ROOMS": 0,
+	"NUM_BEDROO": 0,
+	"NUM_FULL_B": 0,
+	"NUM_HALF_B": 0,
+	"EXT_WALL_C": "0",
+	"GARAGE_CON": "0",
+	"GARAGE_SIZ": "0",
+	"BASE_TYPE": "0",
+	"BASE_FIN": "0",
+	"ATTIC_TYPE": "0",
+	"ATTIC_FIN": "0",
+	"CENTRAL_AC": "0",
+	"NUM_APT": 0,
+	"AGE": 0,
+	"LAND_SQ_FT": 3907,
+	"BUILDING_S": 0,
+	"IMP_VALUE": "000000000",
+	"LAND_AV": 4911,
+	"TAXPAYER_NAME": "JEROME P MULLEN",
+	"TOTAL_VALU": 4911,
+	"TAXCODE": "29013",
+	"OVERALL_CL": "241",
+	"EX_AG_CODE": "00000",
+	"EXEMPT_AGE": " ",
+	"Property_Photo_Url": "https://maps.cookcountyil.gov/groundphotos/02353060210000",
+	"Tax_Delinquincies": {
+		"Taxes_Sold": [{
+				"Tax_Sale": "2019 Scavenger Sale",
+				"From_Year_To_Year_(Scav_Sale_Only)": "2012 - 2017",
+				"Status": "Sold",
+				"Status_Document_Number": "",
+				"Date": "7/24/2019",
+				"Comment": ""
+			}, {
+				"Tax_Sale": "2016 Annual Sale",
+				"From_Year_To_Year_(Scav_Sale_Only)": "",
+				"Status": "Sold",
+				"Status_Document_Number": "",
+				"Date": "5/9/2018",
+				"Comment": "Urgent"
+			},
+			{
+				"Tax_Sale": "2013 Annual Sale",
+				"From_Year_To_Year_(Scav_Sale_Only)": "",
+				"Status": "Vacated",
+				"Status_Document_Number": "18 COTD 2026",
+				"Date": "9/19/2018",
+				"Comment": ""
+			},
+			{
+				"Tax_Sale": "2012 Annual Sale",
+				"From_Year_To_Year_(Scav_Sale_Only)": "",
+				"Status": "Vacated",
+				"Status_Document_Number": "2017COTD001813",
+				"Date": "7/30/2018",
+				"Comment": ""
+			}
+
+		],
+		"Delinquent_Amounts": [{
+				"Tax_Year": "2017",
+				"Status": "Open",
+				"ForfeitDate": "5/8/2019",
+				"1st_InstallmentTax_Balance": "$2,115.70",
+				"2nd_InstallmentTax_Balance": "$2,033.02",
+				"Type": "",
+				"WarrantYear": ""
+			},
+			{
+				"Tax_Year": "2016",
+				"Status": "Open",
+				"ForfeitDate": "",
+				"1st_InstallmentTax_Balance": "$1,935.68",
+				"2nd_InstallmentTax_Balance": "",
+				"Type": "",
+				"WarrantYear": ""
+			},
+			{
+				"Tax_Year": "2015",
+				"Status": "Open",
+				"ForfeitDate": "",
+				"1st_InstallmentTax_Balance": "$1,814.27",
+				"2nd_InstallmentTax_Balance": "$1,705.14",
+				"Type": "",
+				"WarrantYear": ""
+			},
+			{
+				"Tax_Year": "2014",
+				"Status": "Open",
+				"ForfeitDate": "",
+				"1st_InstallmentTax_Balance": "$1,778.44",
+				"2nd_InstallmentTax_Balance": "$1,520.24",
+				"Type": "",
+				"WarrantYear": ""
+			},
+			{
+				"Tax_Year": "2013",
+				"Status": "Open",
+				"ForfeitDate": "",
+				"1st_InstallmentTax_Balance": "$1,754.71",
+				"2nd_InstallmentTax_Balance": "$1,478.81",
+				"Type": "",
+				"WarrantYear": ""
+			}
+		],
+		"Totals": {
+			"1st_Installment_Total": "$11,518.48",
+			"2nd_Installment_Total": "$7,807.92"
+		},
+		"Recorded_Documents": [{
+				"Date_Recorded": "2020-08-20",
+				"Doc_Num": "2023317031",
+				"Doc_Type": "DEED",
+				"Parties": [{
+						"Name": "DYNAMIC EQUITY PARTNERS INC",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "OAK HSE LLC",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "2017839096"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2020/20200820wm/2023317031.pdf"
+			},
+			{
+				"Date_Recorded": "2020-08-20",
+				"Doc_Num": "2023317030",
+				"Doc_Type": "POWER OF ATTORNEY",
+				"Parties": [{
+						"Name": "DYNAMIC EQUITY PARTNERS INC",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "OAK HSE LLC",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2020/20200820wm/2023317030.pdf"
+			},
+			{
+				"Date_Recorded": "2020-06-26",
+				"Doc_Num": "2017839096",
+				"Doc_Type": "MORTGAGE",
+				"Parties": [{
+						"Name": "DYNAMIC EQUITY PARTNERS INC",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "OAK HOUSE LLC",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "2023317031"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2020/20200626wm/2017839096.pdf"
+			},
+			{
+				"Date_Recorded": "2020-06-26",
+				"Doc_Num": "2017839095",
+				"Doc_Type": "TRUSTEES DEED",
+				"Parties": [{
+						"Name": "OAK HOUSE LLC",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "PROF-2013-M4 LEGAL TITLE TRUST II",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2020/20200626wm/2017839095.pdf"
+			},
+			{
+				"Date_Recorded": "2019-03-13",
+				"Doc_Num": "1907245035",
+				"Doc_Type": "DEED",
+				"Parties": [{
+						"Name": "PROF 2013-M4 LEGAL TITLE TRUST II",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "BUSCH RUTHIE",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "ADAMS RUTHIE",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "BURCH RUTHIE",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "BURCH RUTHIE L",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "JUDICIAL SALES CORP",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2019/20190313wm/1907245035.pdf"
+			},
+			{
+				"Date_Recorded": "2018-09-11",
+				"Doc_Num": "1825444070",
+				"Doc_Type": "ORDER",
+				"Parties": [{
+						"Name": "FOX JULIE SPECIAL REPRESENTATIVE",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "FEDERAL NATIONAL MORTGAGE ASSOCIATION",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "DUGAR GREGORY",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "HENDERSON CAROLYN",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR-HENDERSON CAROLYN",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR CAROLYN",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "JPMORGAN CHASE BANK",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR FELICIA A",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR FELICIA",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR MAURICE LEE",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR MAURICE L",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR MAURICE",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR DERRICK D",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR DERRICK",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR GLENDA",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ARTHUR",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ARTHUR JR",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "BURCH RUTHIE",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "BURCH RUTHIE L",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR AUTHUR SR",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR AUTHUR",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR AUTHUR S",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "00560442"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2018/20180911wm/1825444070.pdf"
+			},
+			{
+				"Date_Recorded": "1997-05-05",
+				"Doc_Num": "97313555",
+				"Doc_Type": "AFFIDAVIT",
+				"Parties": [{
+						"Name": "DUGAR ARTHUR S",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "DUGAR ROBERT J DECD",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/1997/05wm/97313555.pdf"
+			},
+			{
+				"Date_Recorded": "1997-05-05",
+				"Doc_Num": "97313556",
+				"Doc_Type": "AFFIDAVIT",
+				"Parties": [{
+						"Name": "DUGAR ARTHUR S",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "DUGAR EDNA M DECD",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/1997/05wm/97313556.pdf"
+			},
+			{
+				"Date_Recorded": "1997-05-05",
+				"Doc_Num": "97313557",
+				"Doc_Type": "QUIT CLAIM DEED",
+				"Parties": [{
+						"Name": "DUGAR ROBERT J DECD",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "DUGAR EDNA M DECD",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "DUGAR ARTHUR",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "DUGAR ROSIE",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "DUGAR ARTHUR",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ROSIE",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/1997/05wm/97313557.pdf"
+			},
+			{
+				"Date_Recorded": "1997-08-07",
+				"Doc_Num": "97572915",
+				"Doc_Type": "MORTGAGE",
+				"Parties": [{
+						"Name": "DUGAR ARTHUR",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "DUGAR ROSIE",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "CENTEX HOME EQUITY CORP",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [{
+						"Doc_Num": "98531267"
+					},
+					{
+						"Doc_Num": "08104381"
+					},
+					{
+						"Doc_Num": "00674516"
+					},
+					{
+						"Doc_Num": "98531266"
+					}
+				],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/1997/08wm/97572915.pdf"
+			},
+			{
+				"Date_Recorded": "1997-08-07",
+				"Doc_Num": "97572916",
+				"Doc_Type": "WARRANTY DEED",
+				"Parties": [{
+						"Name": "DUGAR ROBERT J JR",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "DUGAR ARTHUR",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ROSIE",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/1997/08wm/97572916.pdf"
+			},
+			{
+				"Date_Recorded": "1997-08-18",
+				"Doc_Num": "97600915",
+				"Doc_Type": "RELEASE",
+				"Parties": [{
+						"Name": "BANC ONE CHGO",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "WEISENBERGER JOHN J",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "93736038"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/1997/08wm/97600915.pdf"
+			},
+			{
+				"Date_Recorded": "1998-12-07",
+				"Doc_Num": "08104381",
+				"Doc_Type": "ASSIGNMENT",
+				"Parties": [{
+						"Name": "TMS MTG INC",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "MONEY STORE",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "BANK NEW YORK TR",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "97572915"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/1998/12wm/08104381.pdf"
+			},
+			{
+				"Date_Recorded": "1998-06-23",
+				"Doc_Num": "98531266",
+				"Doc_Type": "ASSIGNMENT",
+				"Parties": [{
+						"Name": "CENTEX HOME EQUITY CORP",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "FIRST UNION NATL BK",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "97572915"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/1998/06wm/98531266.pdf"
+			},
+			{
+				"Date_Recorded": "1998-06-23",
+				"Doc_Num": "98531267",
+				"Doc_Type": "ASSIGNMENT",
+				"Parties": [{
+						"Name": "FIRST UNION NATL BK",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "FIRST UNION NATL BK NC",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "TMS MTG INC",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "97572915"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/1998/06wm/98531267.pdf"
+			},
+			{
+				"Date_Recorded": "2001-04-20",
+				"Doc_Num": "0010322517",
+				"Doc_Type": "MORTGAGE",
+				"Parties": [{
+						"Name": "DUGAR ARTHUR S",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "MORTGAGE ELEC REGISTRATION SYSTEMS INC",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "BANK ONE",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "0415544033"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2001/04wm/0010322517.pdf"
+			},
+			{
+				"Date_Recorded": "2000-06-09",
+				"Doc_Num": "00421313",
+				"Doc_Type": "QUIT CLAIM DEED",
+				"Parties": [{
+						"Name": "DUGAR ROSIE L",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "DUGAR ARTHUR S",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2000/06wm/00421313.pdf"
+			},
+			{
+				"Date_Recorded": "2000-07-25",
+				"Doc_Num": "00560442",
+				"Doc_Type": "MORTGAGE",
+				"Parties": [{
+						"Name": "DUGAR ARTHUR S",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "MORTGAGE ELEC REGISTRATION SYSTEMS INC",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "BANK ONE",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "1825444070"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2000/07wm/00560442.pdf"
+			},
+			{
+				"Date_Recorded": "2000-08-30",
+				"Doc_Num": "00674516",
+				"Doc_Type": "RELEASE",
+				"Parties": [{
+						"Name": "BANK NY TR",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "DUGAR ARTHUR",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ROSIE",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "97572915"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2000/08wm/00674516.pdf"
+			},
+			{
+				"Date_Recorded": "2002-05-02",
+				"Doc_Num": "0020504210",
+				"Doc_Type": "MORTGAGE",
+				"Parties": [{
+						"Name": "DUGAR ARTHUR S",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "BANK ONE",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "0414216186"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2002/05wm/0020504210.pdf"
+			},
+			{
+				"Date_Recorded": "2002-09-10",
+				"Doc_Num": "0020991181",
+				"Doc_Type": "RELEASE",
+				"Parties": [{
+						"Name": "MORTGAGE ELEC REGISTRATION SYSTEM",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "ROMANO NOE",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "09009593"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2002/09wm/0020991181.pdf"
+			},
+			{
+				"Date_Recorded": "2004-04-28",
+				"Doc_Num": "0411917006",
+				"Doc_Type": "MORTGAGE",
+				"Parties": [{
+						"Name": "DUGAR ARTHUR S",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "BANK ONE",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "0728802092"
+				}, {
+					"Doc_Num": "0726305194"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2004/04wm/0411917006.pdf"
+			},
+			{
+				"Date_Recorded": "2004-05-21",
+				"Doc_Num": "0414216186",
+				"Doc_Type": "RELEASE",
+				"Parties": [{
+						"Name": "BANK ONE",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "DUGAR ARTHUR S",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "0020504210"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2004/05wm/0414216186.pdf"
+			},
+			{
+				"Date_Recorded": "2004-06-03",
+				"Doc_Num": "0415544033",
+				"Doc_Type": "RELEASE",
+				"Parties": [{
+						"Name": "MORTGAGE ELEC REGISTRATION SYSTEM",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "DUGAR ARTHUR S",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "0010322517"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2004/06wm/0415544033.pdf"
+			},
+			{
+				"Date_Recorded": "1990-06-04",
+				"Doc_Num": "90258624",
+				"Doc_Type": "RELEASE",
+				"Parties": [{
+						"Name": "UNITED OF AMER BK",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "ARMSTRONG IDA B",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": ""
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/1990/06wm/90258624.pdf"
+			},
+			{
+				"Date_Recorded": "1990-06-04",
+				"Doc_Num": "90258623",
+				"Doc_Type": "RELEASE",
+				"Parties": [{
+						"Name": "EQUITABLE LF ASSUR SOC U",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "ARMSTRONG IDA B",
+						"Party_Type": "GTE "
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": ""
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/1990/06wm/90258623.pdf"
+			},
+			{
+				"Date_Recorded": "2006-02-07",
+				"Doc_Num": "0603816242",
+				"Doc_Type": "MORTGAGE",
+				"Parties": [{
+						"Name": "JPMORGAN CHASE BK",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ARTHUR S",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "0728802095"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2006/02wm/0603816242.pdf"
+			},
+			{
+				"Date_Recorded": "2007-09-20",
+				"Doc_Num": "0726305192",
+				"Doc_Type": "MORTGAGE",
+				"Parties": [{
+						"Name": "JPMORGAN CHASE BK",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ARTHUR S",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "1220508456"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2007/09wm/0726305192.pdf"
+			},
+			{
+				"Date_Recorded": "2007-09-20",
+				"Doc_Num": "0726305193",
+				"Doc_Type": "MORTGAGE",
+				"Parties": [{
+						"Name": "JPMORGAN CHASE BK",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ARTHUR S",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "1219208762"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2007/09wm/0726305193.pdf"
+			},
+			{
+				"Date_Recorded": "2007-09-20",
+				"Doc_Num": "0726305194",
+				"Doc_Type": "RECORD OF PAYMENT",
+				"Parties": [{
+						"Name": "PUBLIC",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ARTHUR S",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "FIRST AMER TITLE INS CO",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "0411917006"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2007/09wm/0726305194.pdf"
+			},
+			{
+				"Date_Recorded": "2007-10-15",
+				"Doc_Num": "0728802092",
+				"Doc_Type": "RELEASE",
+				"Parties": [{
+						"Name": "OUGAR ARTHUR S",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "JPMORGAN CHASE BK",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "0411917006"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2007/10wm/0728802092.pdf"
+			},
+			{
+				"Date_Recorded": "2007-10-15",
+				"Doc_Num": "0728802095",
+				"Doc_Type": "RELEASE",
+				"Parties": [{
+						"Name": "DUGAR ARTHUR S",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "JPMORGAN CHASE BK",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "0603816242"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2007/10wm/0728802095.pdf"
+			},
+			{
+				"Date_Recorded": "2012-07-10",
+				"Doc_Num": "1219208761",
+				"Doc_Type": "MORTGAGE",
+				"Parties": [{
+						"Name": "JPMORGAN CHASE BK",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ARTHUR S",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [{
+						"Doc_Num": "1509613068"
+					},
+					{
+						"Doc_Num": "1713955010"
+					},
+					{
+						"Doc_Num": "1502122066"
+					},
+					{
+						"Doc_Num": "1423957138"
+					},
+					{
+						"Doc_Num": "1219208762"
+					}
+				],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2012/07wm/1219208761.pdf"
+			},
+			{
+				"Date_Recorded": "2012-07-10",
+				"Doc_Num": "1219208762",
+				"Doc_Type": "SUBORDINATION",
+				"Parties": [{
+						"Name": "JPMORGAN CHASE BK",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "JPMORGAN CHASE BK",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "0726305193"
+				}, {
+					"Doc_Num": "1219208761"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2012/07wm/1219208762.pdf"
+			},
+			{
+				"Date_Recorded": "2012-07-23",
+				"Doc_Num": "1220508456",
+				"Doc_Type": "RELEASE",
+				"Parties": [{
+						"Name": "DUGAR ARTHUR S",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "JPMORGAN CHASE BK",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "0726305192"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2012/07wm/1220508456.pdf"
+			},
+			{
+				"Date_Recorded": "2014-08-27",
+				"Doc_Num": "1423957138",
+				"Doc_Type": "ASSIGNMENT",
+				"Parties": [{
+						"Name": "FEDERAL NATL MTG ASSN",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "JPMORGAN CHASE BK",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "1219208761"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2014/08wm/1423957138.pdf"
+			},
+			{
+				"Date_Recorded": "2015-01-21",
+				"Doc_Num": "1502122066",
+				"Doc_Type": "LIS PENDENS FORECLOSURE",
+				"Parties": [{
+						"Name": "DUGAR ARTHUR S SR",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ARTHUR",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ARTHUR S",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "JPMORGAN CHASE BANK",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR FELICIA A",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR FELICIA",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR MAURICE L",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR MAURICE LEE",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR MAURICE L",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR MAURICE",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR GREGORY",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR DERRICK D",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR DERRICK",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR GLENDA",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR-HENDERSON CAROLYN",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR CAROLYN",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ARTHUR",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ARTHUR JR",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "BUSCH RUTHIE",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "ADAMS RUTHIE",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "BURCH RUTHIE",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "BURCH RUTHIE L",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "FANNIE MAE",
+						"Party_Type": "GTR"
+					},
+					{
+						"Name": "FEDERAL NATIONAL MORTGAGE ASSOCIATIONS",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "1219208761"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2015/01wm/1502122066.pdf"
+			},
+			{
+				"Date_Recorded": "2015-04-06",
+				"Doc_Num": "1509613068",
+				"Doc_Type": "AMENDED LIS PENDENS",
+				"Parties": [{
+						"Name": "DUGAR ARTHUR S SR DECD",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ARTHUR DECD",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ARTHUR S DECD",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "FOX JULIE REP",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "JPMORGAN CHASE BANK",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR FELICIA A",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR FELICIA",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR MAURICE LEE",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR MAURICE L",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR MAURICE",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR GREGORY",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR DERRICK D",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR DERRICK",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR GLENDA",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "HENDERSON CAROLYN",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR-HENDERSON CAROLYN",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR CAROLYN",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ARTHUR",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "DUGAR ARTHUR JR",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "BUSCH RUTHIE",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "ADAMS RUTHIE",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "BURCH RUTHIE",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "BURCH RUTHIE L",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "FEDERAL NATIONAL MORTGAGE ASSOCIATION",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "1219208761"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2015/04wm/1509613068.pdf"
+			},
+			{
+				"Date_Recorded": "2017-01-20",
+				"Doc_Num": "1702041127",
+				"Doc_Type": "LIS PENDENS",
+				"Parties": [{
+						"Name": "BK OF NY MELLON TR",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "MORTGAGE ELECTRONIC REGISTRATION SYSTEMS INC",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "FEDERAL NATIONAL MORTGAGE ASSOCIATION",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "BURCH RUTHIE L",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "CHICAGO",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2017/20170120wm/1702041127.pdf"
+			},
+			{
+				"Date_Recorded": "2017-05-19",
+				"Doc_Num": "1713955010",
+				"Doc_Type": "ASSIGNMENT",
+				"Parties": [{
+						"Name": "PROF-2013-M4 LEGAL TITLE TRUST II",
+						"Party_Type": "GTE "
+					},
+					{
+						"Name": "FEDERAL NATL MTG ASSN",
+						"Party_Type": "GTR"
+					}
+				],
+				"Prior_Docs": [{
+					"Doc_Num": "1219208761"
+				}],
+				"Doc_Url": "https://www.ccrecorder.org/CCRD-WM/2017/20170519wm/1713955010.pdf"
+			}
+
+		]
+	}
+}
+}
